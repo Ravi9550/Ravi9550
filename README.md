@@ -21,7 +21,7 @@
 - **Programming Languages:** Python, Java, C++, JavaScript
 - **Frameworks & Libraries:** Django, Flask, React.js, Express.js
 - **Database Technologies:** MongoDB, SQLite, MySQL
-- **Tools & Platforms:** Git, Docker, AWS, Postman
+- **Tools & Platforms:** Git, Docker, Postman
 
 ---
 
