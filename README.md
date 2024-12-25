@@ -1,6 +1,6 @@
 # Hi there,  I'm Ravi ! 👋
 
-### **"Empowering ideas through code and innovation."**
+### **Empowering ideas through code and innovation.**
 
 
 --- 
@@ -13,7 +13,7 @@
 
 ## 🌱 What I'm Learning
 - **Machine Learning and Artificial Intelligence:** Exploring deep learning, natural language processing, and computer vision.
-- **Backend Development:** Strengthening my expertise in Node.js, Express.js,React.js and Django to build fast, secure, and scalable backend systems.
+- **Backend Development:** Strengthening my expertise in Node.js, Express.js, React.js and Django to build fast, secure, and scalable backend systems.
 
 ---
 
