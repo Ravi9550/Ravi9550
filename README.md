@@ -1,6 +1,6 @@
 # Hi there,  I'm Ravi ! 👋
 
-*Empowering ideas through code and innovation.*
+### **"Empowering ideas through code and innovation."**
 
 
 --- 
