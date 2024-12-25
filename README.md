@@ -6,9 +6,9 @@
 --- 
 
 ## 🚀 About Me
-💻 I’m a pre-final year student pursuing a B.Tech in Computer Science and Engineering at IIIT Nagpur.  
-🤖 Passionate about AI, ML, and exploring emerging technologies to solve real-world problems.  
-🔧 Web Developer with a strong foundation in Python and web technologies.
+- I’m a pre-final year student pursuing a B.Tech in Computer Science and Engineering at IIIT Nagpur.  
+- Passionate about AI, ML, and exploring emerging technologies to solve real-world problems.  
+- Web Developer with a strong foundation in Python and web technologies.
 
 
 ## 🌱 What I'm Learning
