@@ -28,7 +28,7 @@
 
 
 ## 🌐 Connect with Me
-- **[LinkedIn][Ravi Gupta](https://www.linkedin.com/in/ravi-gupta-9b6b2b238)**
+- **Linkedin** : [Ravi Gupta](https://www.linkedin.com/in/ravi-gupta-9b6b2b238)**
 - **Email**: [ravigupta13102004@gmail.com](mailto:ravigupta13102004@gmail.com)
 
 
