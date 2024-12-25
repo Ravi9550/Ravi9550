@@ -32,12 +32,7 @@
 - **Email**: [ravigupta13102004@gmail.com](mailto:ravigupta13102004@gmail.com)
 
 
----
 
-## 📜 Certifications
-- **Python for Everybody:** University of Michigan.
-- **Machine Learning Specialization:** Coursera.
-- **AWS Certified Solutions Architect – Associate**
 
 ---
 
@@ -48,7 +43,6 @@
 ---
 
 ## 🤝 Let’s Collaborate
-- Have a project idea? Let’s bring it to life!
 - Looking for contributors? Feel free to reach out via [email@example.com](mailto:email@example.com).
 
 ---
