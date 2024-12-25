@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ravi Kumar Gupta
+# Hi there,  I'm Ravi ! 👋
 
 *"Empowering ideas through code and innovation."*
 
