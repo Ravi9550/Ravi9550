@@ -1,4 +1,4 @@
-## Hi there, I'm Ravi Kumar Gupta 👋
+## Hi there, I'm Ravi! 👋
 
 *"Empowering ideas through code and innovation."*
 
@@ -8,7 +8,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## 🌱 What I'm Learning
+ **Machine Learning and Artificial Intelligence:** Exploring deep learning, natural language processing, and computer vision.
+ **Backend Development:** Strengthening my expertise in Node.js, Express.js, and Django to build fast, secure, and scalable backend systems.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
