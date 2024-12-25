@@ -25,25 +25,15 @@
 
 ---
 
+## 🏆 Achievements
 
-
+- **3-Star Rating on CodeChef**: Max rating of 1701
+- **500+ Problem Solved** on LeetCode, CodeChef, and Codeforces
+---
 ## 🌐 Connect with Me
 - **Linkedin** : [Ravi Gupta](https://www.linkedin.com/in/ravi-gupta-9b6b2b238)
 - **Email**: [ravigupta13102004@gmail.com](mailto:ravigupta13102004@gmail.com)
 
-
-
-
----
-
-## 🏆 Achievements
-
-- **3-Star Rating on CodeChef**: Max rating of 1701
-- **500+ Problem Solves** on LeetCode, CodeChef, and Codeforces
----
-
-## 🤝 Let’s Collaborate
-- Looking for contributors? Feel free to reach out via [email@example.com](mailto:email@example.com).
 
 ---
 
