@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ravi Kumar Gupta
 
-*"Passionate about exploring Machine Learning, Artificial Intelligence, and Backend Development to solve real-world problems."*
+*"Empowering ideas through code and innovation."*
 
 Welcome to my GitHub profile! I'm an enthusiastic developer with a strong focus on building scalable, intelligent software solutions. I am deeply interested in applying AI and ML techniques to solve complex problems, and I love developing efficient backend systems to power these solutions.
 
