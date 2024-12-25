@@ -2,14 +2,13 @@
 
 *"Empowering ideas through code and innovation."*
 
-Welcome to my GitHub profile! I'm an enthusiastic developer with a strong focus on building scalable, intelligent software solutions. I am deeply interested in applying AI and ML techniques to solve complex problems, and I love developing efficient backend systems to power these solutions.
 
----
+--- 
 
-## 🔭 What I'm Working On
-- **[EduSmart](#):** A centralized academic management platform built with Django and SQLite to streamline communication and administrative tasks for students and faculty.
-- Real-Time Chat App: A MERN stack-based chat application integrated with Socket.io for group and one-on-one conversations.
-
+## ## 🚀 About Me
+💻 I’m a pre-final year student pursuing a B.Tech in Computer Science and Engineering at IIIT Nagpur.
+🤖 Passionate about AI, ML, and exploring emerging technologies to solve real-world problems.
+🔧  Web Developer with a strong foundation in Python and web technologies.
 ---
 
 ## 🌱 What I'm Learning
@@ -20,31 +19,13 @@ Welcome to my GitHub profile! I'm an enthusiastic developer with a strong focus 
 
 ## 🛠️ My Skillset
 - **Programming Languages:** Python, Java, C++, JavaScript
-- **Frameworks & Libraries:** Django, Flask, React.js, Socket.io, Express.js
+- **Frameworks & Libraries:** Django, Flask, React.js, Express.js
 - **Database Technologies:** MongoDB, SQLite, MySQL
 - **Tools & Platforms:** Git, Docker, AWS, Postman
 
 ---
 
-## 🚀 Featured Projects
-### [EduSmart](#)
-A robust academic management platform featuring:
-- Secure dashboards for HODs, staff, and students.
-- Customized access permissions for efficient CRUD operations.
-- Backend: Django & SQLite | Frontend: HTML, CSS, JavaScript, Bootstrap.
 
-### Real-Time Chat App
-An interactive chat platform offering:
-- **One-on-One and Group Chats:** Seamless communication using WebSocket technology.
-- **Frontend:** React.js for a user-friendly interface.
-- **Backend:** Node.js and Express.js integrated with Socket.io.
-
-### [Heart Disease Prediction Model](#)
-A machine learning project that predicts heart disease likelihood based on patient data.
-- Developed using Logistic Regression and Python libraries like Pandas, NumPy, and Scikit-learn.
-- Integrated a user-friendly dashboard for data input and result visualization.
-
----
 
 ## 🌐 Connect with Me
 - **[LinkedIn](https://linkedin.com/in/ravi-kumar-gupta)**
@@ -60,10 +41,10 @@ A machine learning project that predicts heart disease likelihood based on patie
 
 ---
 
-## ✨ Fun Facts
-- I enjoy solving complex DSA problems—over 500+ solved on platforms like LeetCode and CodeChef.
-- Outside of coding, I’m passionate about chess and exploring cybersecurity challenges.
+## 🏆 Achievements
 
+- **3-Star Rating on CodeChef**: Max rating of 1701
+- **500+ Problem Solves** on LeetCode, CodeChef, and Codeforces
 ---
 
 ## 🤝 Let’s Collaborate
