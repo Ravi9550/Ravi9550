@@ -28,9 +28,9 @@
 
 
 ## 🌐 Connect with Me
-- **[LinkedIn](https://linkedin.com/in/ravi-kumar-gupta)**
-- **[Portfolio](https://ravigupta.dev)** (Coming Soon)
-- **[Twitter](https://twitter.com/ravi_gupta)**
+- **[LinkedIn](https://www.linkedin.com/in/ravi-gupta-9b6b2b238)**
+- 📧 **Email**: [ravigupta13102004@gmail.com](mailto:ravigupta13102004@gmail.com)
+
 
 ---
 
